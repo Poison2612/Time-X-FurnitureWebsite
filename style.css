@@ -53,10 +53,10 @@ html,body{
 
 #box1{
     display: flex;
-    align-items: center;
     position: relative;
     height: 105vh;
     width: 100%;
+
 }
 
 #text{
@@ -126,7 +126,7 @@ svg#lamp{
     top: 315px;
     right: 29px;
 }
-svg#sofa{
+svg#main-sofa{
     position: absolute;
     top: 313px ;
     right: 323px ;
